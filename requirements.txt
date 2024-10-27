@@ -1,0 +1,9 @@
+aiohttp
+git+https://github.com/KurimuzonAkuma/pyrogram
+python-dotenv
+tgcrypto
+motor
+aiofiles
+dnspython
+requests
+jinja2
